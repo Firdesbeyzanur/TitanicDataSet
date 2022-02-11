@@ -1,0 +1,2 @@
+# TitanicDataset
+Data was preprocessed in Titanic dataset, ExtraTressClassifier and Feature Importance were extracted, SelectKBest was scored, correlation map was drawn, data that did not have normal distribution were standardized and basic statistical information was extracted. (Titanic veri setinde veri ön işleme yapıldı, ExtraTressClassifier ve Feature Importance çıkarıldı, SelectKBest skoralndı, korelasyon haritası çıkarıldı, normal dağılıma sahip olmayan veriler standartlaştırıldı ve temel istatik bilgileri çıkarıldı.)
